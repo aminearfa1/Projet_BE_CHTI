@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!Etape_2_1
+!Somme_cos_sin.s
+!Trigo.asm
+!Etape_2_1.axf
+!STM32F10x.s
+!main_2_1.c
